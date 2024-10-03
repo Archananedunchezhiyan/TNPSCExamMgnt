@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<events>
+
+  <event uri="/login" class="com.vast.web.ExamController" method="doLogin"/>
+
+</events>
